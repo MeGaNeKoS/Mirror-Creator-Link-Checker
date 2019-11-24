@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Mirror Creator Link Checker
-// @namespace https://greasyfork.org/users/400139
-// @version      1.0
+// @namespace 	https://github.com/MeGaNeKoS/Mirror-Creator-Link-Checker
+// @version      1.1
 // @description  Why aabck 1 by 1 if you can do automatically?
 // @author       MeGaNeKo(めがねこ)
 // @match        *://www.mirrored.to/*
