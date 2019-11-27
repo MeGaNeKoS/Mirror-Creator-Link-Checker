@@ -2,7 +2,7 @@
 // @name         Mirror Creator Link Checker
 // @namespace 	https://github.com/MeGaNeKoS/Mirror-Creator-Link-Checker
 // @version      1.1
-// @description  Why aabck 1 by 1 if you can do automatically?
+// @description  Why Check 1 by 1 if you can do automatically?
 // @author       MeGaNeKo(めがねこ)
 // @match        *://www.mirrored.to/*
 // @grant        none
